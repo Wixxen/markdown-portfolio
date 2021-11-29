@@ -1,2 +1,2 @@
 
-<h1> [Github] (https://github.com/Wixxen/github-slideshow.git)
+<h1> [Youtube] (Youtube.com)
