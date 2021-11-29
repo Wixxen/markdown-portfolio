@@ -1,1 +1,1 @@
-<h1>(https://github.com/Wixxen/github-slideshow.git)
+<h1> [Github] (https://github.com/Wixxen/github-slideshow.git)
